@@ -4,7 +4,9 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=GBAlvesM&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Atualmente estudando na SPTech<br/> Eu sou desenvolvedor full stack</p>
+<p>Atualmente estudando na SPTech<br/> Tenho interesse em desenvolvimento back-end e full-stack!</p>
+
+<br/>
 
 ![](https://komarev.com/ghpvc/?username=GBAlvesM&color=006bed)
 
@@ -22,7 +24,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![NODE.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 
 **DevOps**
 
@@ -35,9 +36,7 @@
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
-<br/>
-
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/gabriel-alves-miguel)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/GBAlvesM)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/gabriel-alves-miguel)
+[![GitHub](https://img.shields.io/Github/followers/iuricode?label=follow&style=social)](https://github.com/GBAlvesM)
