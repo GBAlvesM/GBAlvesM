@@ -39,4 +39,4 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/gabriel-alves-miguel)
-[![GitHub](https://img.shields.io/Github/followers/iuricode?label=follow&style=social)](https://github.com/GBAlvesM)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/GBAlvesM)
